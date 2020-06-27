@@ -60,6 +60,8 @@
 
   http://localhost:5000/api/users/createadmin
   
- Only admin can add, edit and delete the products as follow:
+ 
+ 
+
  
  
