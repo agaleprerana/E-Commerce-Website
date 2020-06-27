@@ -54,3 +54,12 @@
 2. In root folder run 'npm start' command
 3. In frontend-react folder run 'npm start
 
+
+# To create admin
+ Enter the following url in browser:
+
+  http://localhost:5000/api/users/createadmin
+  
+ Only admin can add, edit and delete the products as follow:
+ 
+ 
