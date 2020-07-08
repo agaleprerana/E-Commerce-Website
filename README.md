@@ -60,6 +60,14 @@
 
   http://localhost:5000/api/users/createadmin
   
+ # Create product ( For Admin )
+   
+  First add image in the frontend-react/public/images folder
+  
+  Then, in the image section of create product screen insert the path of tha image as:
+   /images/image_name.jpg
+   
+  Note: One will be able to see the products on the home screen only if the products are added first by admin.
  
  
 
